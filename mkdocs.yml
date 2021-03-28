@@ -1,0 +1,13 @@
+site_name: Leetcode 解题合集
+site_url: 
+repo_url: https://github.com/li-zrh/leetcode-solutions
+repo_name: li-zrh/leetcode-solutions
+site_author: "@zhonger @lukesky0919"
+copyright: "本站遵循 CC 4.0 协议"
+theme: 
+  name: material
+  language: zh
+  font: false
+extra_css: 
+  # - stylesheets/vintage.css
+  - stylesheets/extra.css
